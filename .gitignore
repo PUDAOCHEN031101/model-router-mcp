@@ -1,0 +1,15 @@
+# Local planning notes (not part of the open-source tree)
+/Plan/
+
+/.venv/
+/siliconflow_router/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.log
+
+# OS metadata (avoid Windows alternate streams)
+*:Zone.Identifier
+
